@@ -20,7 +20,7 @@ public class MedicalRecordMatcher extends JFrame {
 
   public MedicalRecordMatcher() {
     setTitle("PDF Keyword Matcher");
-    setSize(600, 400);
+    setSize(800, 600);
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     setLocationRelativeTo(null);
     initializeUI();
